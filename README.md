@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blackmagiczar
 - 👀 I’m interested in Web Dev and everything tech
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on FrontEnd Projects
 - 📫 How to reach me innocentsiboniso6@gmail.com
 
 <!---
